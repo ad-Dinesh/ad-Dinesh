@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Dinesh
+
+💻 MERN Stack Developer | Java & DSA
+
+🎓 B.Tech @ IIITDM Jabalpur (Indian Institute of Information Technology, Design and Manufacturing, Jabalpur)
+🚀 Focused on Full Stack Development (Frontend + Backend) & Problem Solving
+
+---
+
+## 🛠️ Tech Stack
+
+Java | Python | JavaScript
+React | Node.js | MongoDB
+
+---
+
+## 🚀 Projects
+
+* 🧳 Travel Log App → Full stack MERN app to manage travel stories
+* 🎬 Movie Recommendation System → Suggests movies based on user preferences
+
+---
+
+## 📈 Currently
+
+* Practicing Data Structures & Algorithms
+* Building MERN stack projects
+
+---
+
+## 📫 Connect
+
+🔗 LinkedIn: [www.linkedin.com/in/dinesh-dharavath-b176a2342](http://www.linkedin.com/in/dinesh-dharavath-b176a2342)
+
+---
+
+⭐ Consistent learning & building
