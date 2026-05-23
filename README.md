@@ -33,7 +33,7 @@ React | Node.js | MongoDB
 ## 🚀 Projects
 
 * 🧳 Travel Log App → Full stack MERN app to manage travel stories
-* 🎬 Movie Recommendation System → Suggests movies based on user preferences
+*  PLacement portal for recurters and students 
 
 ---
 
