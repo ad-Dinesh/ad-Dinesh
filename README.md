@@ -1,5 +1,6 @@
 <div align="center">
-<img src="github_profile_banner.png" alt="Dinesh D Banner" width="100%">
+<img src="<img width="2688" height="1152" alt="image" src="https://github.com/user-attachments/assets/85fffec8-988d-4fe6-a899-8d1cec3d1e90" />
+" alt="Dinesh D Banner" width="100%">
 </div>
 
 # 👋 Hi, I'm Dinesh D
