@@ -25,7 +25,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ad-Dinesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
----
+
 
 ## 💡 About Me
 
@@ -44,7 +44,8 @@
 - 💬 Ask me about **Python, Machine Learning, Java, DSA, React, Next.js, Node.js, Express.js, and MongoDB**
 
 - ⚡ I enjoy learning new technologies by building projects and solving real-world problems
----
+
+
 ⚙️ Technologies & Tools
 💻 Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript" alt="Programming Languages" /> </p>
@@ -59,7 +60,7 @@
 🛠️ Developer Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Developer Tools" /> </p>
 
----
+
 📊 GitHub Stats
 <div align="center">
 
@@ -70,7 +71,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight&hide_border=true" alt="Dinesh's Top Languages" />
 
 </div>
----
+
+
 AI Mock Interview Platform
 
 An AI-powered mock interview platform designed to help users prepare for technical interviews through realistic AI-generated questions and personalized feedback.
@@ -109,6 +111,18 @@ React.js Node.js Express.js MongoDB Tailwind CSS Vite
 
 🔗 Repository:
 https://github.com/ad-Dinesh/travel-log
----
+
+
 🌐 Connect with Me
 <div align="center"> <a href="https://www.linkedin.com/in/dinesh-dharavath-b176a2342/"> <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Dharavath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:dineshdharavath03@gmail.com"> <img src="https://img.shields.io/badge/Gmail-dineshdharavath03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/ad-Dinesh"> <img src="https://img.shields.io/badge/GitHub-ad--Dinesh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </div>
+
+<div align="center">
+💻 Building. Learning. Improving.
+
+<i>"Turning ideas into code and data into intelligent solutions."</i>
+
+<br/><br/>
+
+⭐ Thanks for visiting my profile!
+
+</div> ```
