@@ -1,82 +1,156 @@
 <div align="center">
-<img src="premium_github_banner.png" alt="Dinesh D Premium Banner" width="100%">
-</div> <h1 align="center">👋 Hi there, I'm Dinesh D!</h1>
-<h3 align="center">🚀 MERN Stack Developer | ☕ Java & DSA Enthusiast | 🎓 B.Tech @ IIITDM Jabalpur</h3>
 
----
+# Hi, I'm Dinesh Dharavath 👋
 
-<p align="center">
-I am a passionate and results-driven <strong>Full Stack Developer</strong> with a strong foundation in <strong>MERN Stack</strong> technologies, <strong>Java</strong>, and <strong>Data Structures & Algorithms (DSA)</strong>. Currently pursuing my B.Tech at the <strong>Indian Institute of Information Technology, Design and Manufacturing, Jabalpur</strong>, I am dedicated to crafting efficient, scalable, and robust software solutions. My expertise lies in transforming complex challenges into elegant code, always striving for innovation and continuous learning.
+### Full Stack Developer | Java & DSA Enthusiast | CSE Student
+
+<p>
+Passionate about building real-world applications, solving challenging problems, and creating clean, scalable software solutions.
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=ad-Dinesh&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
 
 ## 💡 About Me
 
-- 🎓  **Education:** B.Tech in Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-
-- 💻  **Focus Areas:** Full Stack Development (Frontend & Backend), Problem Solving (DSA), and System Design
-
-- 🌱  **Currently Learning:** Advanced System Design patterns, Microservices architecture, and exploring new features in the MERN ecosystem.
-
-- 💬  **Ask me about:** MERN stack development, Java programming, competitive programming, and building scalable web applications.
-
-- ⚡  **Fun Fact:** I enjoy optimizing algorithms and finding creative solutions to challenging coding puzzles.
+* 🎓 Pursuing **B.Tech in Computer Science and Engineering** at **Indian Institute of Information Technology, Design and Manufacturing (IIITDM), Jabalpur**
+* 💻 Focused on **Full Stack Web Development** and building real-world applications
+* 🧠 Passionate about **Data Structures & Algorithms** and problem solving using **Java**
+* 🚀 Exploring modern technologies and improving my development skills through hands-on projects
+* 🌱 Currently learning **Advanced DSA, Backend Development, System Design, and AI integration**
+* 💬 Ask me about **Java, DSA, React, Next.js, Node.js, Express.js, MongoDB, and Full Stack Development**
+* ⚡ Fun fact: I enjoy turning ideas into working applications and continuously improving them through code
 
 ---
 
 ## ⚙️ Technologies & Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,java,python,git,github,vscode,postman,docker,aws,gcp,kubernetes,figma" />
-</p>
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,typescript" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+
+### Developer Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ad-Dinesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dinesh D's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad-Dinesh&theme=tokyonight&hide_border=true" alt="Dinesh D's GitHub Streak" />
-</p> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p> <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ad-Dinesh&theme=dark_dimmed&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ad-Dinesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dinesh Dharavath's GitHub Stats" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ad-Dinesh&theme=tokyonight&hide_border=true" alt="Dinesh Dharavath's GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ad-Dinesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of the projects I'm proud of. Feel free to explore and provide feedback!
+### 🤖 AI Mock Interview Platform
 
-- **[Project Name 1]**
-  - A brief, engaging description of Project 1, highlighting its purpose, technologies used, and key features. Include a link to the repository if it's public.
-  - `Technologies: React, Node.js, MongoDB, Express.js`
-  - [View Project](https://github.com/ad-Dinesh/project1)
+An AI-powered mock interview platform designed to help users practice technical interviews. The application generates interview questions using AI, allows users to record their answers, and provides AI-generated feedback to improve their interview performance.
 
-- **[Project Name 2]**
-  - A brief, engaging description of Project 2, highlighting its purpose, technologies used, and key features. Include a link to the repository if it's public.
-  - `Technologies: Java, Spring Boot, MySQL`
-  - [View Project](https://github.com/ad-Dinesh/project2)
+**Technologies:** Next.js, React, Tailwind CSS, Clerk, PostgreSQL, Drizzle ORM, Gemini AI
+
+🔗 **Repository:**
+https://github.com/ad-Dinesh/ai-mock-interviewer
+
+---
+
+### 💼 Job Portal
+
+A full-stack job portal application that connects job seekers with recruiters. Users can browse and apply for jobs, while recruiters can manage companies, create job postings, and review applications.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+🔗 **GitHub:**
+https://github.com/ad-Dinesh
+
+---
+
+### 🌍 Travel Log Application
+
+A full-stack MERN application that allows users to create and manage their travel experiences. Users can add travel locations and maintain a personalized collection of their journeys.
+
+**Technologies:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+🔗 **Repository:**
+https://github.com/ad-Dinesh/travel-log
 
 ---
 
 ## 🌐 Connect with Me
 
-Let's connect and build something amazing together!
+<div align="center">
 
-- 💼  **LinkedIn:** [Dinesh Dharavath](https://www.linkedin.com/in/dinesh-dharavath-b176a2342/)
----
+<a href="https://www.linkedin.com/in/dinesh-dharavath-b176a2342/">
+  <img src="https://img.shields.io/badge/LinkedIn-Dinesh%20Dharavath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ad-Dinesh&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p> <p align="center">
-  <i>"Innovating one line of code at a time."</i>
-</p>
+<a href="mailto:dineshdharavath03@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dineshdharavath03%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ad-Dinesh&repo=ad-Dinesh&theme=tokyonight" alt="Dinesh D's Profile README" />
+
+### 💻 "Building, learning, and improving — one line of code at a time."
+
+</div>
+
+---
+
+### 🔗 README Resources
+
+* GitHub Readme Stats — github-readme-stats
+* GitHub Streak Stats — github-readme-streak-stats
+* GitHub Profile Trophy — github-profile-trophy
+* Skill Icons — skillicons.dev
+* Profile Views — Komarev GitHub Profile Views Counter
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
 </div>
