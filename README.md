@@ -25,7 +25,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ad-Dinesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
-
+<!-- ===================== About Section ===================== -->
 
 ## 💡 About Me
 
