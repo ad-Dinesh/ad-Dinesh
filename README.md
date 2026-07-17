@@ -1,64 +1,65 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Dinesh D</h1>
-<p align="center">
-  <b>MERN Stack Developer · Java & DSA Enthusiast</b><br/>
-  B.Tech @ IIITDM Jabalpur · Passionate about Problem Solving
-</p>
+<div align="center">
+<img src="github_profile_banner.png" alt="Dinesh D Banner" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-20c997?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-e8502a?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-7c5cbf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-4caf50?style=for-the-badge" />
-</p>
+# 👋 Hi, I'm Dinesh D
 
----
+### 🚀 MERN Stack Developer | ☕ Java & DSA Enthusiast | 🎓 B.Tech @ IIITDM Jabalpur
 
-## 🚀 About Me
-
-- 🎓 **Education:** B.Tech · Indian Institute of Information Technology, Design and Manufacturing, Jabalpur
-- 🔭 **Focus Areas:** Full Stack Development (Frontend + Backend) & Problem Solving (DSA)
-- 🌱 **Currently Learning:** Advanced DSA concepts & exploring new MERN stack features
-- 💬 **Ask me about:** MERN stack, Java, competitive programming
-- ⚡ **Fun fact:** I enjoy turning complex problems into clean, scalable solutions
+I am a passionate developer dedicated to building real-world projects and solving complex problems with clean, scalable solutions. Currently pursuing my B.Tech at the **Indian Institute of Information Technology, Design and Manufacturing, Jabalpur**, I focus on mastering the MERN stack and advancing my problem-solving skills through Data Structures and Algorithms.
 
 ---
 
 ## 🛠️ Tech Stack
 
+I leverage a modern technology stack to build robust and efficient applications:
+
 | Category | Technologies |
-|----------|-------------|
-| **Languages** | Java · Python · JavaScript |
-| **Frontend** | React.js · HTML · CSS |
-| **Backend** | Node.js · Express.js |
+| --- | --- |
+| **Languages** | Java, Python, JavaScript |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
-| **Tools** | Git · GitHub · VS Code |
-| **Concepts** | DSA · REST APIs · OOP |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Concepts** | DSA, RESTful APIs, OOP, System Design |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ad-Dinesh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/dinesh-dharavath-b176a2342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ad-Dinesh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ad-Dinesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ad-Dinesh&theme=tokyonight" alt="GitHub Streak" />
+</div> <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
-<p align="center">
-  <i>Building one commit at a time 🚀</i>
-</p>
+## 🤝 Let's Connect
+
+I'm always open to collaborating on innovative projects or discussing tech trends. Feel free to reach out!
+
+- 💼 **LinkedIn:** [Dinesh Dharavath](https://www.linkedin.com/in/dinesh-dharavath-b176a2342/)
+
+- 📧 **Email:** [dinesh.d@iiitdmj.ac.in](mailto:dinesh.d@iiitdmj.ac.in) (Update with your actual email if different)
+
+- 🐦 **Twitter:** [@ad_Dinesh](https://twitter.com/ad_Dinesh) (If applicable)
+
+---
+
+## 💡 Projects & Contributions
+
+I am actively building projects that solve real-world problems. Check out my repositories to see what I've been working on lately!
+
+- **[Project Name 1]**: Brief description of the project.
+
+- **[Project Name 2]**: Brief description of the project.
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ad-Dinesh&color=blueviolet" alt="Profile Views" />
+</div>
+
+> "Turning complex problems into clean, scalable solutions."
