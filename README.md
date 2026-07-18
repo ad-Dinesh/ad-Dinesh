@@ -9,7 +9,7 @@
 <br/>
 
 <!-- ===================== INTRODUCTION ===================== -->
-<h1 align="center">Hi, I'm Dinesh Dharavath 👋</h1>
+<h1 align="center">Hi, I'm Dinesh</h1>
 
 <h3 align="center">
   Machine Learning Enthusiast | Full Stack Developer | Java & DSA
