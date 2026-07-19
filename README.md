@@ -67,18 +67,7 @@
 ### 🛠️ Developer Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Developer Tools" /> </p>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=ad-Dinesh&show_icons=true&theme=tokyonight&hide_border=true" alt="Dinesh's GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ad-Dinesh&layout=compact&theme=tokyonight&hide_border=true" alt="Dinesh's Top Languages" />
-
-</div>
 
 <!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
