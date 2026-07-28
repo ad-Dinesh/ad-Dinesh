@@ -78,7 +78,7 @@ An AI-powered mock interview platform designed to help users prepare for technic
 
 The platform allows users to practice interview questions, record their responses, and receive AI-generated feedback to improve their interview performance.
 
-**Tech Stack:** Next.js · React · Tailwind CSS · Clerk · PostgreSQL · Drizzle ORM · Gemini AI
+**Tech Stack:** Next.js · React · Tailwind CSS · Clerk · neon  · Drizzle ORM · Gemini AI
 
 🔗 [Repository](https://github.com/ad-Dinesh/ai-mock-interviewer)
 
